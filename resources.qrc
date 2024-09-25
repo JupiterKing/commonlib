@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qssFromResource/resourceGeneratedStyle_ClassinCam.qss</file>
+        <file>qssFromResource/resourceGlobal.qss</file>
+        <file>qssFromResource/resourceplugins.qss</file>
+        <file>qssFromResource/global_QScrollBar.qss</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>images/slider/background.svg</file>
+        <file>images/slider/item.svg</file>
+        <file>images/slider/item_active.svg</file>
+        <file>images/slider/select.svg</file>
+        <file>images/hslider/groove.svg</file>
+        <file>images/hslider/handle.png</file>
+        <file>images/hslider/handle.svg</file>
+        <file>images/hslider/zero.svg</file>
+        <file>images/combox/checked.png</file>
+		<file>images/combox/checked.svg</file>
+        <file>images/combox/down.png</file>
+        <file>images/combox/popup_bg.png</file>
+        <file>images/combox/up.png</file>
+        <file>images/combox/novip.png</file>
+        <file>images/combox/novip_zh.png</file>
+        <file>images/combox/popup_small.png</file>
+        <file>images/combox/addbtn.png</file>
+        <file>images/combox/editbtn.png</file>
+        <file>images/combox/deletebtn.png</file>
+        <file>images/mask.png</file>
+        <file>images/hslider2/groove.svg</file>
+        <file>images/hslider2/groove_bidirection.svg</file>
+        <file>images/hslider2/groove_bidirection_disabled.svg</file>
+        <file>images/hslider2/groove_disabled.svg</file>
+        <file>images/hslider2/handle.svg</file>
+        <file>images/hslider2/handle_disabled.svg</file>
+    </qresource>
+</RCC>

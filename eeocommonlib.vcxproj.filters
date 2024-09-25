@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="widgets\basemovedialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\basemovedialogwithbackimage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\commonpopupdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="frameless\cursorposcalculator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\custombidirectionslider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\customcombox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\customcomboxheader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\customcomboxitem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\customizeiconbutton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\customkeysequenceedit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\custompicturebtn.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\customplaintextedit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\customshadowcombox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\customslider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\customsliderbarwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\customtoolbutton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\customtooltip.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="eeocommonlib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\eeoconfirmdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\eeomasking.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="qssload\eeoresloader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\eeoupdatetipdlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="frameless\framelesshelper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\horizontalslider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\newhorizontalslider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\popupdlgwithmask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="qhotkey\qhotkey.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="qhotkey\qhotkey_win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\shadowpopupwidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="widgets\tipsdlgwithcheckbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="frameless\widgetdata.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="widgets\basemovedialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\basemovedialogwithbackimage.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\commonpopupdialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="frameless\cursorposcalculator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="widgets\custombidirectionslider.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\customcombox.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\customcomboxheader.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\customcomboxitem.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\customizeiconbutton.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\customkeysequenceedit.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\custompicturebtn.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\customplaintextedit.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\customshadowcombox.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\customslider.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\customsliderbarwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\customtoolbutton.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="widgets\customtooltip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="eeocommonlib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="eeocommonlib_global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="widgets\eeoconfirmdialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="widgets\eeomasking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qssload\eeoresloader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="widgets\eeoupdatetipdlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="frameless\framelesshelper.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="frameless\framelesshelperprivate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <QtMoc Include="widgets\horizontalslider.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\newhorizontalslider.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\popupdlgwithmask.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="qhotkey\qhotkey.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="qhotkey\qhotkey_p.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\shadowpopupwidget.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="widgets\tipsdlgwithcheckbox.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <ClInclude Include="frameless\widgetdata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <CustomBuild Include="C:\Users\EEO\Documents\myCode\phantom-cam\utils\eeocommonlib\GeneratedFiles\debug\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\EEO\Documents\myCode\phantom-cam\utils\eeocommonlib\GeneratedFiles\release\moc_predefs.h.cbt">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\combox\addbtn.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\slider\background.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\combox\checked.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\combox\checked.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\combox\deletebtn.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\combox\down.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\combox\editbtn.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qssFromResource\global_QScrollBar.qss">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\hslider2\groove.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\hslider\groove.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\hslider2\groove_bidirection.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\hslider2\groove_bidirection_disabled.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\hslider2\groove_disabled.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\hslider\handle.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\hslider2\handle.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\hslider\handle.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\hslider2\handle_disabled.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\slider\item.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\slider\item_active.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\mask.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\combox\novip.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\combox\novip_zh.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\combox\popup_bg.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\combox\popup_small.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qssFromResource\resourceGeneratedStyle_ClassinCam.qss">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qssFromResource\resourceGlobal.qss">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="qssFromResource\resourceplugins.qss">
+      <Filter>Resource Files</Filter>
+    </None>
+    <QtRcc Include="resources.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <None Include="images\slider\select.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\combox\up.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="images\hslider\zero.svg">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
